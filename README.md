@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Jhamel V. Mamasao 🚀
+# 👋 Hello, World! I'm Jhamel Mamasao 🚀
 
 🎓 4th-Year Computer Science Student at Naga College Foundation  
 💻 Passionate Full-Stack Developer, UI/UX Designer, and Graphic Artist  
