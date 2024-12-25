@@ -27,4 +27,14 @@
 [![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
 
+## 📊 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+
+
 
