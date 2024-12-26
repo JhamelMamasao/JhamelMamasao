@@ -2,7 +2,7 @@
 
 🎓 4th-Year Computer Science Student at Naga College Foundation  
 💻 Passionate Full-Stack Developer, UI/UX Designer, and Graphic Artist  
-🌱 Currently exploring AI/ML, Flutter, React and the MERN stack  
+🌱 Currently exploring AI/ML, Flutter, React Native and the MERN stack  
 🎯 Aspiring to create innovative solutions that make a difference!  
 
 ## 🛠️ Tech Stack
